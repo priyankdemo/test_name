@@ -1,4 +1,4 @@
-name: sklearn_logisti
+name: sklearn_logistin
 
 conda_env: conda.yaml
 
