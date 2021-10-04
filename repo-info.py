@@ -6,7 +6,7 @@ API_ENDPOINT = "http://115.115.91.60:8080/train"
 
 # data to be sent to api
 data = {
-	"url": "https://github.com/priyankdemo/reg_demo",
+	"url": "https://github.com/priyankdemo/test_name-algo-",
 	"branch_name": "master",
 	"user_name": "priy@gmail.com"
 }
