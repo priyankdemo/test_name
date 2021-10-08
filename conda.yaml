@@ -1,4 +1,4 @@
-name: sklearn-example
+name: sklearn-exampl
 channels:
   - conda-forge
 dependencies:
